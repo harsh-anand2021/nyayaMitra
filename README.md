@@ -48,32 +48,46 @@ NyayaMitra
 │
 ├── screenshots
 └── README.md
-Application Screenshots
-Welcome Page
+## Application Screenshots
 
-Login Page
+### Welcome Page
+![Welcome](screenshots/WelcomePage.jpg)
 
-Mobile Login
+### Login Page
+![Login](screenshots/loginPage.jpg)
 
-Sign Up Page
+### Mobile Login
+![Mobile Login](screenshots/mobileLogin.jpg)
 
-Light Theme Operation Page
+### Sign Up Page
+![Signup](screenshots/SignUp.jpg)
 
-Dark Theme
+### Light Theme Operation Page
+![Light Theme](screenshots/lightOpPage.jpg)
 
-Mobile Welcome Screen
+### Dark Theme
+![Dark Theme](screenshots/darkTheme.jpg)
 
-Mobile Operation Screen
+### Mobile Welcome Screen
+![Mobile Welcome](screenshots/mobileWelcome.jpg)
 
-Sample Legal Query
+### Mobile Operation Screen
+![Mobile OP](screenshots/MobileOpScreen.jpg)
 
-Recent Responses
+### Sample Legal Query
+![Sample Query](screenshots/sampleOP.jpg)
 
-Alert Messages
+### Recent Responses
+![Recent Responses](screenshots/recentResponse.jpg)
 
-Logout Screen
+### Alert Messages
+![Alert](screenshots/alert.jpg)
 
-Our Team
+### Logout Screen
+![Logout](screenshots/logout.jpg)
+
+### Our Team
+![Team](screenshots/ourTeam.jpg)
 
 How to Run the Project
 1 Clone the Repository
