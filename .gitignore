@@ -1,0 +1,17 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+chroma_store/
+
+# Flutter
+build/
+.dart_tool/
+
+# IDE
+.idea/
+.vscode/

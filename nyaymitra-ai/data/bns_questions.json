@@ -1,0 +1,1102 @@
+[
+  {
+    "section": 1,
+    "section_name": "Short title, commencement and application",
+    "questions": [
+      {
+        "question": "What is the name of the Act?",
+        "answer": "The Act may be called the Bharatiya Nyaya Sanhita, 2023."
+      },
+      {
+        "question": "When does the Act come into force?",
+        "answer": "It shall come into force on such date as the Central Government may appoint by notification in the Official Gazette."
+      },
+      {
+        "question": "Who is liable to punishment under this Sanhita?",
+        "answer": "Every person guilty of an act or omission contrary to the provisions of this Sanhita within India."
+      },
+      {
+        "question": "How are offences committed outside India treated?",
+        "answer": "They are dealt with according to this Sanhita as if committed within India."
+      },
+      {
+        "question": "Does the Sanhita apply to Indian citizens abroad?",
+        "answer": "Yes, it applies to Indian citizens, persons on Indian-registered ships or aircrafts, and those targeting computer resources in India."
+      }
+    ]
+  },
+  {
+    "section": 2,
+    "section_name": "Definitions.",
+    "questions": [
+      {
+        "question": "What does the term 'act' mean in this Sanhita?",
+        "answer": "It denotes a series of acts as well as a single act."
+      },
+      {
+        "question": "Who is considered a 'child' under this Sanhita?",
+        "answer": "Any person below the age of eighteen years."
+      },
+      {
+        "question": "How is 'counterfeit' defined?",
+        "answer": "A person is said to counterfeit who causes one thing to resemble another with intent to deceive or knowing it is likely to deceive."
+      },
+      {
+        "question": "What is included in the definition of 'document'?",
+        "answer": "Any matter expressed by letters, figures, or marks including electronic or digital records, used or intended to be used as evidence."
+      },
+      {
+        "question": "Who is a 'public servant' under this Sanhita?",
+        "answer": "Includes commissioned officers, Judges, government officers, court officers, electoral officers, and others discharging public duties."
+      },
+      {
+        "question": "What does 'dishonestly' mean?",
+        "answer": "Doing something with the intention of causing wrongful gain or wrongful loss."
+      },
+      {
+        "question": "How is 'injury' defined?",
+        "answer": "Any harm illegally caused to a person’s body, mind, reputation, or property."
+      },
+      {
+        "question": "What does 'offence' mean under this Sanhita?",
+        "answer": "Anything made punishable by this Sanhita, or by any special or local law under certain conditions."
+      },
+      {
+        "question": "What is 'valuable security'?",
+        "answer": "A document that creates, transfers, restricts, or acknowledges legal rights or liabilities."
+      },
+      {
+        "question": "What is the meaning of 'voluntarily'?",
+        "answer": "An act is done voluntarily when the person intends to cause it or knows it is likely to cause the effect."
+      },
+      {
+        "question": "What does 'wrongful gain' and 'wrongful loss' mean?",
+        "answer": "Wrongful gain is gaining property one is not entitled to; wrongful loss is losing property one is entitled to."
+      },
+      {
+        "question": "What is the definition of 'person'?",
+        "answer": "It includes any company, association, or body of persons, whether incorporated or not."
+      },
+      {
+        "question": "What does the term 'gender' include?",
+        "answer": "The pronoun 'he' includes male, female, and transgender persons."
+      },
+      {
+        "question": "What does 'reason to believe' imply?",
+        "answer": "A person is said to have reason to believe when they have sufficient cause to believe something."
+      }
+    ]
+  },
+  {
+    "section": 3,
+    "section_name": "General explanations",
+    "questions": [
+      {
+        "question": "Are definitions and penal provisions subject to exceptions in this Sanhita?",
+        "answer": "Yes, every definition of an offence, penal provision, and illustration is subject to the general exceptions, even if not explicitly stated."
+      },
+      {
+        "question": "Can a child under seven be guilty of an offence under this Sanhita?",
+        "answer": "No, under the general exceptions, nothing is an offence which is done by a child under seven years of age."
+      },
+      {
+        "question": "Is a police officer who apprehends a murderer without a warrant guilty of wrongful confinement?",
+        "answer": "No, because he is bound by law to apprehend the murderer, which falls under the general exception."
+      },
+      {
+        "question": "How are explained expressions treated across the Sanhita?",
+        "answer": "Every expression explained in any part of the Sanhita is used consistently in accordance with that explanation throughout."
+      },
+      {
+        "question": "What does possession include under this Sanhita?",
+        "answer": "Possession includes property held by a person’s spouse, clerk, or servant on their account."
+      },
+      {
+        "question": "Does the term 'act' include omissions?",
+        "answer": "Yes, unless the context indicates otherwise, references to acts also include illegal omissions."
+      },
+      {
+        "question": "What is the liability when several persons act with a common intention?",
+        "answer": "Each person is liable for the act as if they had committed it alone."
+      },
+      {
+        "question": "If several people commit an act with criminal knowledge or intention, are they all liable?",
+        "answer": "Yes, each is liable as if they had committed the act individually with that knowledge or intention."
+      },
+      {
+        "question": "Can an offence be committed partly by act and partly by omission?",
+        "answer": "Yes, such an act is considered the same offence."
+      },
+      {
+        "question": "Can cooperation through different acts result in joint criminal liability?",
+        "answer": "Yes, intentional cooperation through different acts constitutes commission of the same offence."
+      },
+      {
+        "question": "Can people involved in the same criminal act be guilty of different offences?",
+        "answer": "Yes, depending on their intentions and circumstances, participants in a criminal act may be guilty of different offences."
+      },
+      {
+        "question": "Give an example of joint liability where two jailors omit to feed a prisoner.",
+        "answer": "If two jailors, A and B, both intentionally omit to feed Z during their shifts and Z dies, both are guilty of murder."
+      },
+      {
+        "question": "What if only one jailor omitted food knowing the risk, and the other didn’t cooperate?",
+        "answer": "The cooperating jailor is guilty of murder; the non-cooperating one is guilty of attempted murder."
+      },
+      {
+        "question": "What happens if two people kill someone but only one was provoked?",
+        "answer": "The provoked person may be guilty of culpable homicide, while the other may be guilty of murder."
+      }
+    ]
+  },
+  {
+    "section": 4,
+    "section_name": "Punishments",
+    "questions": [
+      {
+        "question": "What types of punishments are prescribed under the Bharatiya Nyaya Sanhita?",
+        "answer": "The punishments prescribed are: death, imprisonment for life, imprisonment (rigorous or simple), forfeiture of property, fine, and community service."
+      },
+      {
+        "question": "What are the two types of imprisonment under this Sanhita?",
+        "answer": "The two types are rigorous imprisonment (with hard labour) and simple imprisonment."
+      },
+      {
+        "question": "Is community service a punishment under the Bharatiya Nyaya Sanhita?",
+        "answer": "Yes, community service is one of the punishments listed."
+      },
+      {
+        "question": "Can property be forfeited as a punishment under this Sanhita?",
+        "answer": "Yes, forfeiture of property is one of the punishments."
+      },
+      {
+        "question": "Does the Sanhita include the death penalty?",
+        "answer": "Yes, death is listed as one of the punishments under the Sanhita."
+      }
+    ]
+  },
+  {
+    "section": 5,
+    "section_name": "Commutation of sentence",
+    "questions": [
+      {
+        "question": "Can a punishment be commuted without the offender's consent under this Sanhita?",
+        "answer": "Yes, the appropriate Government may commute any punishment under this Sanhita without the offender's consent."
+      },
+      {
+        "question": "Which section of law governs the commutation of sentences?",
+        "answer": "Commutation of sentences is governed in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023."
+      },
+      {
+        "question": "Who is the 'appropriate Government' for offences related to the executive power of the Union?",
+        "answer": "The Central Government is the appropriate Government in such cases."
+      },
+      {
+        "question": "Who is the 'appropriate Government' for offences related to the executive power of a State?",
+        "answer": "The Government of the State where the offender is sentenced is the appropriate Government in such cases."
+      },
+      {
+        "question": "Does the commutation of sentence require the offender's approval?",
+        "answer": "No, commutation does not require the offender’s approval."
+      }
+    ]
+  },
+  
+  {
+    "section": 6,
+    "section_name": "Fractions of terms of punishment",
+    "questions": [
+      {
+        "question": "If life imprisonment is mentioned in fractional terms, how is it calculated?",
+        "answer": "For calculation purposes, life imprisonment is treated as equivalent to 20 years, unless otherwise stated."
+      }
+    ]
+  },
+  {
+    "section": 7,
+    "section_name": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple",
+    "questions": [
+      {
+        "question": "If someone is sentenced to imprisonment, who decides if it’s rigorous or simple?",
+        "answer": "The court has the power to decide whether the imprisonment is wholly rigorous, wholly simple, or a mix of both."
+      },
+      {
+        "question": "Can the court split a sentence into rigorous and simple parts?",
+        "answer": "Yes, the court may direct part of the sentence to be rigorous and the rest to be simple."
+      }
+    ]
+  },
+  {
+  "section": 8,
+  "section_name": "Amount of fine, liability in default of payment of fine, etc.",
+  "questions": [
+    {
+      "question": "If no maximum fine amount is stated for an offence, can the fine be unlimited?",
+      "answer": "Yes, the court may impose an unlimited fine if no specific maximum is stated, but it must not be excessive or arbitrary."
+    },
+    {
+      "question": "What happens if a person is sentenced to a fine but does not pay it?",
+      "answer": "The court can order imprisonment for a certain term in default of payment, in addition to any other imprisonment already imposed."
+    },
+    {
+      "question": "Can someone be imprisoned just for not paying a fine, even if no imprisonment was initially given?",
+      "answer": "Yes, if the offence is punishable with imprisonment or fine, and the offender doesn't pay the fine, the court may impose imprisonment in default."
+    },
+    {
+      "question": "What is the maximum imprisonment allowed for non-payment of fine in offences punishable with both imprisonment and fine?",
+      "answer": "It shall not exceed one-fourth of the maximum term of imprisonment prescribed for the offence."
+    },
+    {
+      "question": "What kind of imprisonment is imposed in default of fine or community service?",
+      "answer": "It can be of any type applicable for the offence, but if the original punishment was fine or community service only, then the imprisonment in default shall be simple."
+    },
+    {
+      "question": "How long can someone be jailed for not paying fines of different amounts?",
+      "answer": "The limits are: up to 2 months for fines up to ₹5,000; up to 4 months for fines up to ₹10,000; and up to 1 year for any higher amount."
+    },
+    {
+      "question": "Can a person be released early from jail if part of the fine is paid?",
+      "answer": "Yes. If a proportionate amount of the fine is paid such that the jail time already served is equal to or more than the part unpaid, the person must be released."
+    },
+    {
+      "question": "What if a person pays part of the fine after spending time in jail?",
+      "answer": "The person will be discharged immediately if the paid amount covers the equivalent time already spent in prison in proportion to the total fine."
+    },
+    {
+      "question": "For how long can the unpaid fine be recovered by law?",
+      "answer": "The unpaid fine can be legally recovered for up to six years from the date of sentencing, or until the end of the imprisonment period if it exceeds six years."
+    },
+    {
+      "question": "What happens to the unpaid fine if the offender dies?",
+      "answer": "The offender’s property can still be used to recover the unpaid fine, just like any other legal debt."
+    }
+  ]
+},
+
+  {
+    "section": 9,
+    "section_name": "Limit of punishment of offence made up of several offences",
+    "questions": [
+      {
+        "question": "If one act includes multiple offences, can a person be punished multiple times for it?",
+        "answer": "No, unless the law specifically allows it, the offender will be punished for only one of the offences."
+      },
+      {
+        "question": "What if someone commits multiple acts that together make up a new offence?",
+        "answer": "In that case, the person cannot be given a punishment more severe than what is permitted for any one of those offences."
+      },
+      {
+        "question": "Can someone be punished separately for hitting someone multiple times in the same incident?",
+        "answer": "No, even if each blow is an offence, the person will receive one punishment for the entire incident, not each blow."
+      },
+      {
+        "question": "What if a different person is hit during the same incident?",
+        "answer": "The offender can be punished separately for harming each person."
+      }
+    ]
+  },
+  {
+    "section": 10,
+    "section_name": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which",
+    "questions": [
+      {
+        "question": "What if the court is unsure which offence a person committed, but knows they are guilty of one?",
+        "answer": "The person will be punished for the offence that has the lowest prescribed punishment."
+      }
+    ]
+  },
+  {
+    "section": 11,
+    "section_name": "Solitary confinement",
+    "questions": [
+      {
+        "question": "When can a court order solitary confinement?",
+        "answer": "A court may order solitary confinement only if the person is sentenced to rigorous imprisonment for the offence."
+      },
+      {
+        "question": "What is the maximum duration of solitary confinement allowed?",
+        "answer": "It cannot exceed three months in total, depending on the length of the prison sentence."
+      },
+      {
+        "question": "How is the maximum solitary confinement duration calculated?",
+        "answer": "It depends on the term of imprisonment:\n(a) Up to 1 month for sentences not exceeding 6 months\n(b) Up to 2 months for sentences over 6 months but not more than 1 year\n(c) Up to 3 months for sentences over 1 year"
+      }
+    ]
+  },
+  {
+  "section": 12,
+  "section_name": "Limit of solitary confinement",
+  "questions": [
+    {
+      "question": "Is there a maximum limit on how long someone can be kept in solitary confinement at one time?",
+      "answer": "Yes, solitary confinement cannot exceed fourteen days at a time."
+    },
+    {
+      "question": "Are there required breaks between periods of solitary confinement?",
+      "answer": "Yes, the break between periods must be at least as long as the confinement period itself."
+    },
+    {
+      "question": "What happens if the total imprisonment is more than three months?",
+      "answer": "In such cases, solitary confinement cannot exceed seven days in any one month of the entire imprisonment term, with equal or longer intervals between such periods."
+    },
+    {
+      "question": "Can solitary confinement be applied continuously over months?",
+      "answer": "No, both short-term and long-term solitary confinement must have breaks, and even across months, it is limited to 7 days per month with mandatory intervals."
+    },
+    {
+      "question": "Why are limits placed on solitary confinement?",
+      "answer": "To ensure humane treatment of prisoners and to prevent psychological and physical harm caused by prolonged isolation."
+    }
+  ]
+},
+{
+  "section": 13,
+  "section_name": "Enhanced punishment for certain offences after previous conviction",
+  "questions": [
+    {
+      "question": "What happens if someone commits another offence under Chapter X or XVII after already being convicted once?",
+      "answer": "If the person was earlier convicted under Chapter X or XVII for an offence punishable by at least 3 years of imprisonment, and commits a similar offence again, they can face imprisonment for life or up to 10 years."
+    },
+    {
+      "question": "Does this enhanced punishment apply to all offences under the Sanhita?",
+      "answer": "No, it specifically applies to repeat offences under Chapter X (relating to contempt of lawful authority) or Chapter XVII (relating to property offences)."
+    },
+    {
+      "question": "What is the minimum prior punishment that makes someone liable for enhanced punishment?",
+      "answer": "The earlier conviction must be for an offence punishable with imprisonment of either description for a term of three years or more."
+    },
+    {
+      "question": "Can someone go to prison for life just because they committed the same offence again?",
+      "answer": "Yes, if the repeat offence is under Chapter X or XVII and meets the criteria, the court may impose life imprisonment or imprisonment up to ten years."
+    },
+    {
+      "question": "Is the type of imprisonment fixed in such cases?",
+      "answer": "The imprisonment can be of either description (rigorous or simple), as decided by the court, but it may extend to life imprisonment based on the severity."
+    }
+  ]
+},
+
+  {
+    "section": 14,
+    "section_name": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+    "questions": [
+      {
+        "question": "What if someone harms me claiming they were just following orders—can they still be punished?",
+        "answer": "If the person genuinely believed they were legally bound to act (based on facts, not ignorance of the law), they may not be held criminally liable. For example, a soldier following lawful orders or a court officer mistakenly arresting someone, believing it was lawful, may not be committing an offence.\n\n**Steps a victim can take:**\n1. **Report the incident** to the nearest police station to ensure it's recorded.\n2. **Consult a lawyer** to assess whether the act falls under 'mistake of fact' or is potentially abuse of authority.\n3. **Request an internal inquiry** if the act involves a government official, such as a police officer or court staff.\n4. **File a complaint** with a higher authority (e.g., the commanding officer or court registrar) if the explanation seems unjustified.\n5. **Seek compensation** through a civil suit if damages were caused even though the act was not a criminal offence."
+      },
+      {
+        "question": "How can I know if someone’s claim of 'mistake of identity' is legally valid?",
+        "answer": "The mistake must be genuine and based on facts. For example, if an officer arrests the wrong person believing in good faith that it matches a court order after due inquiry, it's not an offence.\n\n**Steps to take:**\n- Ask for identification of the officer and **a copy of the warrant or order** they acted upon.\n- Document the **circumstances and evidence of mistaken identity** (e.g., witnesses, surveillance, your location).\n- File for **compensation or legal remedy** in court if your rights were affected even though no offence was committed."
+      }
+    ]
+  },
+  {
+    "section": 15,
+    "section_name": "Act of Judge when acting judicially",
+    "questions": [
+      {
+        "question": "What if a judge makes a wrong decision—can they be punished under this law?",
+        "answer": "No, a judge is not criminally liable for acts done while acting judicially in good faith, even if a mistake is made, provided the judge believes they are acting within the powers granted by law.\n\n**Steps a victim can take if harmed by a judicial act:**\n1. **File an appeal** to a higher court if you believe the decision was incorrect or unjust.\n2. **Seek review or revision** under appropriate legal provisions depending on the stage and type of the case.\n3. If misconduct is suspected (e.g., bias, corruption), **file a complaint with the judicial oversight body** such as the High Court or judicial council.\n4. **Consult an advocate** to explore civil remedies for damages (in rare cases) or for filing writ petitions if your fundamental rights were violated.\n\nIt’s important to distinguish between a judicial error (protected under law) and judicial misconduct (which is not)."
+      }
+    ]
+  },
+  
+  {
+    "section": 16,
+    "section_name": "Act done pursuant to judgment or order of Court",
+    "questions": [
+      {
+        "question": "What if I was harmed because of a court order that turned out to be invalid?",
+        "answer": "If someone acts under a court judgment or order that is still in force, they are not committing an offence—even if the court had no legal jurisdiction—so long as they believed in good faith that the court had such authority.\n\n**Steps you can take as a victim:**\n1. **Review the judgment or order**: Request a copy to verify its existence and validity.\n2. **Check the court's jurisdiction**: With the help of a lawyer, assess whether the court was competent to issue that order.\n3. **Appeal or quash the order**: If it was invalid, file an appeal or a writ petition in a higher court to have it set aside.\n4. **File a civil suit**: If you suffered damages, you may seek compensation, but only if the actor was negligent or acted in bad faith.\n5. **File a complaint against misuse**: If the person misused the court’s order, report it to the court or oversight body for appropriate action."
+      }
+    ]
+  },
+  {
+    "section": 17,
+    "section_name": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+    "questions": [
+      {
+        "question": "If someone harms me claiming they believed it was justified by law, is that acceptable?",
+        "answer": "If the person acted in good faith based on a mistake of fact—not a mistake of the law—and genuinely believed they were justified, their action may not be considered an offence. For example, someone who mistakenly apprehends you thinking you were committing a serious crime may not be held criminally liable.\n\n**Steps you can take as a victim:**\n1. **Ensure a police report is filed**: Even if the person acted in good faith, the incident must be documented.\n2. **Collect evidence**: Gather witness statements or footage that shows your side of the story.\n3. **Challenge the justification**: If their belief wasn’t reasonable, the court may still hold them accountable.\n4. **Consult a lawyer**: To examine whether the mistake was valid and what remedies you can pursue.\n5. **File for damages**: If you were injured or wrongly detained, you may still file a civil case for compensation."
+      }
+    ]
+  },
+  {
+    "section": 18,
+    "section_name": "Accident in doing a lawful act",
+    "questions": [
+      {
+        "question": "What if someone accidentally injured me while doing something legal—is that still a crime?",
+        "answer": "If the act was legal, done in a legal manner with proper care, and the result was accidental without criminal intent, then it is not considered an offence. For example, if a worker using a tool accidentally injures someone despite using proper caution, it may be excused under law.\n\n**Steps you can take as a victim:**\n1. **Report the incident**: Always inform the authorities to create a legal record, even if it was accidental.\n2. **Determine if caution was exercised**: Investigate whether the person acted with proper care. Lack of due caution could still lead to liability.\n3. **File for compensation**: You may not be entitled to criminal charges, but you can seek civil compensation for injuries or losses.\n4. **Request safety reviews**: If the accident happened in a public or workplace setting, report the incident to regulators (e.g., labor safety boards).\n5. **Consult a personal injury lawyer**: For guidance on pursuing a claim even if the act was not a criminal offence."
+      }
+    ]
+  },
+  
+  {
+    "section": 19,
+    "section_name": "Act likely to cause harm, but done without criminal intent, and to prevent other harm",
+    "questions": [
+      {
+        "question": "What if someone causes harm to me but claims they did it to prevent a greater harm?",
+        "answer": "According to this section, if a person acted with knowledge that harm could occur but did so without criminal intent and in good faith to prevent greater or more imminent harm, it may not be treated as an offence.\n\n**Steps a victim should take:**\n1. **Document the incident**: Record what happened, including photos, videos, and witness details.\n2. **Report to the police**: Ensure an FIR or daily diary entry is made to legally document your side of the event.\n3. **Seek medical/legal reports**: Get injury documentation and legal consultation to assess whether the act truly lacked criminal intent.\n4. **Verify the circumstances**: Did the accused act in a reasonable emergency situation? If not, challenge their justification.\n5. **File a civil suit**: Even if it’s not a criminal offence, you may claim damages for loss of property, injury, or trauma.\n6. **Ask for an inquiry**: In public or professional contexts (e.g., ship captains, firefighters), report the matter to regulatory or safety oversight bodies."
+      }
+    ]
+  },
+  {
+    "section": 20,
+    "section_name": "Act of a child under seven years of age",
+    "questions": [
+      {
+        "question": "What if a child under seven causes harm or damage to me—can they be punished?",
+        "answer": "No, a child under seven years of age cannot be held criminally responsible for any act, regardless of the consequences. The law presumes they lack the ability to understand the wrongfulness of their actions.\n\n**Steps a victim should take:**\n1. **Identify the guardians**: Legal responsibility may lie with parents or guardians.\n2. **Seek compensation**: File a civil suit against the parents or guardians for damages if negligence is involved.\n3. **Report the incident**: Notify authorities (police or child welfare) for documentation.\n4. **Request mediation**: In cases involving minor injury or property loss, try a legal or local body mediation with the family.\n5. **Engage child services**: If the child poses continued risk, request intervention from a child welfare committee or district officer."
+      }
+    ]
+  },
+  {
+    "section": 21,
+    "section_name": "Act of a child above seven and under twelve years of age of immature understanding",
+    "questions": [
+      {
+        "question": "A child aged 8 harmed me. Can I get justice?",
+        "answer": "A child between 7 and 12 years is not criminally liable **if they did not have sufficient maturity to understand their actions**. The court evaluates their mental development and awareness.\n\n**Steps a victim should take:**\n1. **File a police report**: Let authorities investigate the child’s maturity and intention.\n2. **Request a psychological assessment**: This helps the court decide if the child understood the consequences.\n3. **Seek compensation from guardians**: You may file a civil claim against parents for negligent supervision.\n4. **Report to child welfare authorities**: They can assess the home environment and offer recommendations.\n5. **Demand monitoring or rehabilitation**: Ask that the child be sent for counseling or juvenile guidance if necessary."
+      }
+    ]
+  },
+  {
+    "section": 22,
+    "section_name": "Act of a person of unsound mind",
+    "questions": [
+      {
+        "question": "What if someone with mental illness hurt me—can they be punished?",
+        "answer": "If the person, at the time of the act, was of unsound mind and **incapable of understanding the nature or wrongfulness of the act**, they are not held criminally responsible under this law. However, that doesn't mean victims are left without options.\n\n**Steps a victim should take:**\n1. **File a police report**: The case must be investigated regardless of the mental condition of the accused.\n2. **Request medical evaluation**: Ask for a certified psychiatric assessment to confirm the accused’s mental state at the time of the act.\n3. **Ask for protective custody or hospitalization**: If the person is a danger to others, the court may order psychiatric confinement under the Mental Healthcare Act.\n4. **File a civil compensation claim**: Depending on the situation, the family or caretaker may be liable.\n5. **Engage mental health authorities**: Request support and long-term care arrangements to prevent future harm.\n6. **Appeal for a restraining order**: If there’s a risk of future violence, ask the court for protection measures."
+      }
+    ]
+  },
+  
+  {
+    "section": 23,
+    "section_name": "Act of a person incapable of judgment by reason of intoxication caused against his will",
+    "questions": [
+      {
+        "question": "If someone hurts me while intoxicated, can they avoid punishment?",
+        "answer": "If a person was intoxicated **against their will or without their knowledge** and was so impaired that they could not understand what they were doing, the law does not treat their act as a criminal offence.\n\n**Steps a victim should take:**\n1. **File a police report**: The incident must be officially recorded regardless of intoxication.\n2. **Request a medical examination of the accused**: To assess their level of intoxication and whether it was involuntary.\n3. **Gather evidence of administration**: If you suspect the intoxication was staged or voluntary, inform the investigators.\n4. **Pursue civil compensation**: Even if not criminally liable, the person may be held responsible in civil court.\n5. **Demand accountability from those who administered the substance**: If someone drugged the offender, they may be criminally liable."
+      }
+    ]
+  },
+  {
+    "section": 24,
+    "section_name": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+    "questions": [
+      {
+        "question": "Can someone use intoxication as an excuse for committing a crime requiring intent?",
+        "answer": "No. If a person voluntarily gets intoxicated and commits an act that requires knowledge or intent, the law treats them **as if they were sober**, unless the intoxication was involuntary.\n\n**Steps a victim should take:**\n1. **Insist on full prosecution**: If the intoxication was self-induced, demand legal action proceed normally.\n2. **Challenge intoxication defense**: Provide evidence or witness testimony showing the person drank or used drugs by choice.\n3. **Request CCTV or digital proof**: Footage showing behavior before the incident can help prove state of mind.\n4. **Seek civil remedies**: Even if criminal consequences are reduced, claim damages for injuries or losses.\n5. **Engage with prosecutors**: Share evidence and insist the accused be treated as legally responsible."
+      }
+    ]
+  },
+  {
+    "section": 25,
+    "section_name": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+    "questions": [
+      {
+        "question": "If I agreed to something risky and got hurt, is the other person still liable?",
+        "answer": "No, not if the act was not intended to cause serious harm, and you—being above 18—gave valid consent to take that risk. For example, if you get injured while sparring or playing sports, the other person may not be criminally liable if there was no foul play.\n\n**Steps a victim should take:**\n1. **Assess the nature of consent**: Did you agree knowingly and voluntarily to the activity?\n2. **Evaluate foul play**: If the other party used excessive force or acted maliciously, report it immediately.\n3. **Document your injuries**: Seek medical attention and retain reports.\n4. **Consult a lawyer**: If there was negligence, you may still be able to claim compensation.\n5. **File a complaint with the organizer**: In case of sports or public events, report the incident to the event body."
+      }
+    ]
+  },
+  {
+    "section": 26,
+    "section_name": "Act not intended to cause death, done by consent in good faith for person's benefit",
+    "questions": [
+      {
+        "question": "What if someone causes me harm but says it was for my benefit and I had consented?",
+        "answer": "If the act was **not intended to cause death**, done **in good faith**, and with **your valid consent**, then it is not a criminal offence—even if the act results in harm. This is common in medical procedures. For example, a surgery that carries risk but is meant to help you is lawful.\n\n**Steps a victim should take:**\n1. **Review the consent**: Was your consent informed and voluntary?\n2. **Request all documentation**: In cases like surgery, obtain the consent form and explanation of risks.\n3. **Challenge good faith**: If the person acted carelessly or with hidden motives, you can dispute the claim of 'good faith'.\n4. **File a complaint**: Report to a medical board or professional authority if the act was performed without adequate care.\n5. **Consult legal experts**: File a medical negligence case or tort claim if the harm was excessive or avoidable."
+      }
+    ]
+  },
+  
+  {
+    "section": 27,
+    "section_name": "Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian",
+    "questions": [
+      {
+        "question": "Can someone cause harm to my child or a mentally ill family member and still claim it’s not a crime?",
+        "answer": "Yes, if the act was done in **good faith**, for the **benefit of a person under 12 or someone of unsound mind**, and **with the consent** of their lawful guardian, it may not be treated as an offence—unless the act involves death, grievous hurt without medical purpose, or criminal abetment.\n\n**Steps victims or guardians should take:**\n1. **Verify intent**: Was the act really in the child’s or patient’s best interest?\n2. **Request documentation**: If a surgery or medical action was taken, ask for consent forms, doctor’s reports, and justification.\n3. **Challenge excess or misuse**: If the harm seems disproportionate, report to police and file a complaint.\n4. **Engage a child welfare authority or mental health board**: They can independently evaluate the necessity and legality of the act.\n5. **Consult a lawyer**: Especially if you suspect abuse of authority or negligence under the pretext of ‘benefit’."
+      }
+    ]
+  },
+  {
+    "section": 28,
+    "section_name": "Consent known to be given under fear or misconception",
+    "questions": [
+      {
+        "question": "If I gave consent under fear or because I was misled, is that consent valid?",
+        "answer": "No. Consent is invalid if given under **fear of injury**, **misconception of fact**, or when the person **lacks the mental or legal capacity** to understand the consequences. Also, consent by a child under 12 is not considered valid unless otherwise stated.\n\n**Steps victims should take:**\n1. **File a police report immediately**: Mention that consent was obtained through threat, coercion, or deceit.\n2. **Collect evidence of pressure**: Voice recordings, texts, witnesses, or anything showing fear or manipulation.\n3. **Request medical or psychological evaluation**: If unsoundness or intoxication is involved.\n4. **File a civil suit for damages**: If the invalid consent led to harm or exploitation.\n5. **Notify legal aid or NGOs**: In cases involving minors or vulnerable persons, notify child protection or women’s rights bodies."
+      }
+    ]
+  },
+  {
+    "section": 29,
+    "section_name": "Exclusion of acts which are offences independently of harm caused",
+    "questions": [
+      {
+        "question": "What if someone gets my consent for an act that is anyway illegal—can they escape punishment?",
+        "answer": "No. If an act is **independently illegal**—like causing a miscarriage (except to save a woman’s life)—**consent does not protect the offender**. Consent cannot legalize something that is already punishable by law regardless of the outcome.\n\n**Steps victims or their families should take:**\n1. **File a complaint immediately**: Especially for acts like forced abortion or illegal medical procedures.\n2. **Document the illegal act**: Take photographs, get witness statements, and secure medical/legal reports.\n3. **Refuse coerced or informal settlements**: These acts are criminal and must be prosecuted under law.\n4. **Reach out to legal services or NGOs**: Especially in cases of reproductive rights or medical abuse.\n5. **Demand full prosecution**: Argue that the act itself—not just its result—was illegal and must be punished."
+      }
+    ]
+  },
+  {
+    "section": 30,
+    "section_name": "Act done in good faith for benefit of a person without consent",
+    "questions": [
+      {
+        "question": "Can someone harm me without my consent and still claim it was done for my benefit?",
+        "answer": "Yes, in limited situations. If it is **impossible to get your consent**, and the person acts **in good faith** for your benefit (e.g., in emergencies), then it may not be a crime. But this does **not apply** to intentional killing, excessive harm, or non-life-saving situations.\n\n**Steps a victim or their family should take:**\n1. **Review the urgency and necessity**: Was it truly an emergency where consent could not be obtained?\n2. **Check for good faith**: Was the act motivated by genuine concern, or was it reckless or abusive?\n3. **File a police complaint if in doubt**: Let authorities investigate if the act was justified.\n4. **Demand medical or legal review**: For surgeries, rescues, or forceful interventions, get expert opinions.\n5. **Challenge misuse of this law**: If the person acted under the guise of benefit for financial or personal gain, report to ethics committees or authorities.\n6. **File for damages**: Even if the act was not criminally punishable, civil action for compensation remains an option."
+      }
+    ]
+  },
+  
+  {
+    "section": 31,
+    "section_name": "Communication made in good faith",
+    "questions": [
+      {
+        "question": "What if someone says something that harms me emotionally or physically, but claims it was in good faith?",
+        "answer": "If a communication is made **in good faith** and **for the benefit of the person being spoken to**, then it is not considered an offence, even if it causes harm. For example, a doctor telling a patient they have a terminal illness is not liable if done sincerely.\n\n**Steps a victim should take:**\n1. **Assess intent**: Did the person make the statement with care and concern, or was it reckless or malicious?\n2. **File a complaint if malice is suspected**: If harm seems deliberate or tactless, report it for investigation.\n3. **Seek documentation**: Ask for written records (e.g., medical reports) showing good-faith basis for the communication.\n4. **Consult mental health services**: If the communication has caused psychological harm, therapy or counseling may help and support future claims.\n5. **File civil suit if defamation or negligence is involved**: Even if criminally protected, civil remedies may apply."
+      }
+    ]
+  },
+  {
+    "section": 32,
+    "section_name": "Act to which a person is compelled by threats",
+    "questions": [
+      {
+        "question": "What if someone commits a crime against me but says they were forced to do it under threat?",
+        "answer": "If a person commits an act **except murder or offences against the State punishable by death**, under **immediate threat of death**, they may not be held criminally responsible. However, this applies **only if** they did not place themselves in that situation voluntarily.\n\n**Steps a victim should take:**\n1. **Report the offence regardless**: Let the court evaluate whether the 'threat' defense is valid.\n2. **Gather witness accounts**: Evidence showing the accused was not under real danger can disprove their claim.\n3. **Investigate background**: Was the person involved with the offenders willingly (e.g., gang participation)? This affects legal protection.\n4. **Request separate investigation**: If the accused was genuinely forced, seek prosecution of the people who made the threat.\n5. **Claim civil compensation**: The defence of compulsion may excuse criminal liability but doesn’t negate victim’s right to damages."
+      }
+    ]
+  },
+  {
+    "section": 33,
+    "section_name": "Act causing slight harm",
+    "questions": [
+      {
+        "question": "If someone hurts me but says the harm was too minor to be an offence, does the law support that?",
+        "answer": "Yes. If the harm is **so slight** that no reasonable person would seriously complain, the act is not an offence. This includes minor scratches, harmless pranks, or trivial inconvenience.\n\n**Steps a victim should take:**\n1. **Assess the seriousness**: Did it cause injury, distress, or lasting harm?\n2. **Collect medical or photographic evidence**: Even small injuries should be documented.\n3. **Talk to a lawyer**: To assess if the harm exceeds the legal threshold.\n4. **Consider civil action**: If not criminal, small claims or compensation may still apply.\n5. **Report repeated slight harms**: A pattern of behavior may amount to harassment even if each act is minor."
+      }
+    ]
+  },
+  {
+    "section": 34,
+    "section_name": "Things done in private defence",
+    "questions": [
+      {
+        "question": "Can someone hurt me and claim it was private defence?",
+        "answer": "Yes, but only if the act was done **while defending themselves or others from a real and immediate threat**. Acts done in private defence are not considered offences, but excessive or retaliatory force is not protected.\n\n**Steps a victim should take:**\n1. **Report the incident immediately**: The police can determine whether it was genuine self-defence or excessive force.\n2. **Collect evidence**: Video, witness accounts, or injuries showing you did not provoke or attack.\n3. **Challenge 'private defence' in court**: Prove that the response was disproportionate or that no threat existed.\n4. **File for civil damages**: Even if no criminal offence is found, compensation may be owed.\n5. **Engage with legal aid services**: Particularly in domestic or complex confrontations, legal aid can help present your side."
+      }
+    ]
+  },
+  {
+    "section": 35,
+    "section_name": "Right of private defence of body and of property",
+    "questions": [
+      {
+        "question": "What is the legal right of private defence and can it be used against me?",
+        "answer": "Every person has the right to defend:\n(a) Their own body or another's body from harm;\n(b) Their property or someone else's property from theft, robbery, mischief, or criminal trespass.\nHowever, this right is **subject to restrictions in Section 37**—such as using proportionate force and not causing unnecessary harm.\n\n**Steps a victim should take if harmed under this claim:**\n1. **Gather evidence of your own actions**: Did you pose a threat or trespass? Prove otherwise with CCTV, witnesses, etc.\n2. **Report injury or property damage**: Regardless of the claim, file a police report.\n3. **Request forensic and medical examination**: Especially if you were injured; this can disprove 'reasonable force'.\n4. **Challenge misuse of defence**: In court, show that no real threat existed or that the force used was excessive.\n5. **File a civil case for damages**: If hurt or if property was damaged beyond justification."
+      }
+    ]
+  },
+  
+  {
+    "section": 36,
+    "section_name": "Right of private defence against act of a person of unsound mind, etc.",
+    "questions": [
+      {
+        "question": "Can I defend myself against a mentally ill or intoxicated person who attacks me?",
+        "answer": "Yes. Even if the attacker is **not legally punishable** due to being of unsound mind, intoxicated, immature, or misinformed, **you still have the right to defend yourself** just as if they were fully responsible.\n\n**Steps you should take:**\n1. **React proportionately**: Use only the amount of force necessary to stop the threat.\n2. **Call for help immediately**: Inform police or medical services to report and document the incident.\n3. **Preserve evidence**: Record videos, take photographs, and get witness statements.\n4. **Seek medical attention**: If injured, ensure your injuries are documented for legal use.\n5. **Notify guardians or authorities**: In the case of mentally ill individuals, inform caretakers or mental health services for proper intervention."
+      }
+    ]
+  },
+  {
+    "section": 37,
+    "section_name": "Acts against which there is no right of private defence",
+    "questions": [
+      {
+        "question": "Are there any situations where I cannot claim private defence if I harm someone?",
+        "answer": "Yes. You **cannot claim private defence** if:\n- The act was done by a **public servant** acting in good faith, and it didn’t cause fear of death or grievous hurt.\n- There was **time to seek help** from public authorities.\n- You inflicted **more harm than necessary** to defend yourself.\n\n**Steps you should take if harmed:**\n1. **Verify identity of public servant**: They must disclose or show their authority.\n2. **Collect evidence**: If you feel excessive force was used, gather proof.\n3. **File a formal complaint**: Especially if you were unaware the person was a public servant.\n4. **Seek judicial review**: If your defence exceeded limits, explain your fear and circumstances.\n5. **File for internal inquiry**: If public servants abused their power, report to their department."
+      }
+    ]
+  },
+  {
+    "section": 38,
+    "section_name": "When right of private defence of body extends to causing death",
+    "questions": [
+      {
+        "question": "Can I legally kill someone if they attack me?",
+        "answer": "Only under extreme circumstances. You can cause death **in private defence** if you are under a **real and reasonable threat** of:\n- Death or grievous hurt\n- Rape\n- Kidnapping or abduction\n- Wrongful confinement with no escape\n- Assault involving acid attacks\n- Assault with intent to gratify unnatural lust\n\n**Steps you should take if you used deadly force in defence:**\n1. **Report to police immediately**: Inform them that it was an act of self-defence.\n2. **Preserve all evidence**: Medical reports, location footage, and your injuries.\n3. **Consult a lawyer**: To frame your case under private defence appropriately.\n4. **Cooperate with investigation**: Truthfully narrate the sequence of events.\n5. **Ensure medical aid is provided**: Even to the attacker if they’re injured, if possible."
+      }
+    ]
+  },
+  {
+    "section": 39,
+    "section_name": "When such right extends to causing any harm other than death",
+    "questions": [
+      {
+        "question": "If someone attacks me but not fatally, can I still defend myself by hurting them?",
+        "answer": "Yes, but you **cannot cause death** unless it falls under conditions in Section 38. For lesser offences (like minor assault or theft), you can defend yourself and cause **non-lethal harm**, as long as it’s **proportionate** and follows Section 37 restrictions.\n\n**Steps to follow:**\n1. **Use reasonable force**: Do not escalate beyond the level of threat.\n2. **Inform police**: Let them assess if your defensive actions were lawful.\n3. **Avoid retaliation**: The defence must be to stop an offence, not to punish.\n4. **Seek medical/legal evidence**: For both your injuries and actions.\n5. **Get legal advice**: In borderline cases, consult a lawyer before giving statements."
+      }
+    ]
+  },
+  {
+    "section": 40,
+    "section_name": "Commencement and continuance of right of private defence of body",
+    "questions": [
+      {
+        "question": "When does my right to self-defence begin and how long does it last?",
+        "answer": "Your right to defend yourself begins as soon as there is a **reasonable apprehension of danger** to your body—even if the offence has not yet occurred. This right **continues as long as the threat persists**.\n\n**Steps you should take during and after an incident:**\n1. **Act only while threat exists**: The moment danger ends, so does your right to harm.\n2. **Avoid preemptive or delayed actions**: Attacking someone after the threat has passed can become an offence.\n3. **Call for help as soon as possible**: Use police, neighbors, or family to control or escape the threat.\n4. **Use minimum required force**: Always choose to defend, not attack or take revenge.\n5. **Explain your actions clearly**: When reporting, describe the threat and your response to ensure you're protected under this law."
+      }
+    ]
+  },
+  
+  {
+    "section": 41,
+    "section_name": "When right of private defence of property extends to causing death",
+    "questions": [
+      {
+        "question": "Can I kill someone who breaks into my house or tries to rob me?",
+        "answer": "Yes, but only in certain serious situations. The law allows **causing death** in private defence of property if you're defending against:\n- Robbery\n- House-breaking **after sunset and before sunrise**\n- Mischief involving fire or explosives in a dwelling or storage\n- Theft or trespass that reasonably threatens death or grievous hurt\n\n**Steps to take if you act in such defence:**\n1. **Call the police immediately** and report the event as a defensive action.\n2. **Preserve evidence**: CCTV, photos of the break-in, injuries, property damage.\n3. **Ensure proportionality**: You must be able to prove that the threat was severe enough to justify the use of lethal force.\n4. **Get legal assistance** right away to help assert your right to private defence.\n5. **Cooperate fully with authorities** to show your actions were necessary, not retaliatory."
+      }
+    ]
+  },
+  {
+    "section": 42,
+    "section_name": "When such right extends to causing any harm other than death",
+    "questions": [
+      {
+        "question": "If someone tries to steal or trespass without threatening my life, can I harm them?",
+        "answer": "Yes. If the offence involves **theft, mischief, or criminal trespass** (that **does not pose deadly threat**), you may use **non-lethal force** to stop the act. You **cannot cause death**, but you may injure or restrain them reasonably.\n\n**Steps to take as a victim:**\n1. **Warn the offender** if possible before using force.\n2. **Use reasonable non-lethal methods**—push back, restrain, block entry.\n3. **Report the offence to police** as soon as possible.\n4. **Do not chase the offender after retreat**: The right ends when the threat ends.\n5. **Gather witness evidence** to show you were defending, not attacking."
+      }
+    ]
+  },
+  {
+    "section": 43,
+    "section_name": "Commencement and continuance of right of private defence of property",
+    "questions": [
+      {
+        "question": "When does my right to defend property begin and how long does it last?",
+        "answer": "Your right starts **as soon as there’s a real threat to property**. It continues based on the type of offence:\n- **Theft**: Until the offender escapes, help arrives, or property is recovered.\n- **Robbery**: While there is danger of violence or restraint.\n- **Criminal trespass/mischief**: As long as the unlawful act continues.\n- **House-breaking after dark**: As long as the person is inside unlawfully.\n\n**Steps to take when defending your property:**\n1. **Act quickly but lawfully**—stop the offender using only the force necessary.\n2. **Avoid excessive violence** if property is not under direct threat.\n3. **Call police immediately** to report the incident.\n4. **Record the incident** if safe to do so: Photos, video, or eye-witnesses.\n5. **Seek legal advice** if force or weapons were used."
+      }
+    ]
+  },
+  {
+    "section": 44,
+    "section_name": "Right of private defence against deadly assault when there is risk of harm to innocent person",
+    "questions": [
+      {
+        "question": "If I defend myself and accidentally hurt an innocent person, am I still liable?",
+        "answer": "No. If you are exercising your right to **save yourself from deadly assault**, and the situation leaves **no way to defend yourself without risking harm to an innocent person**, the law protects you. For example, firing at an armed mob even if bystanders are nearby.\n\n**Steps to take in such situations:**\n1. **Assess all options**: Ensure there’s no safe alternative before taking risky action.\n2. **Act proportionally**: Your response must still be aimed at the threat.\n3. **Call emergency services immediately** after the incident.\n4. **Provide full statement** explaining that harming an innocent was not intended.\n5. **Document everything** to show your action was necessary and in good faith."
+      }
+    ]
+  },
+  {
+    "section": 45,
+    "section_name": "Abetment of a thing",
+    "questions": [
+      {
+        "question": "What does it mean to abet a crime, and can I be punished if I didn’t directly commit it?",
+        "answer": "Yes. You can be punished for **abetment** if you:\n- **Instigate** someone to commit the act,\n- **Conspire** with others to commit it and an act occurs in consequence,\n- Or **aid** the act through help or omission.\nEven if you didn’t perform the crime, if your actions helped cause it, you’re legally responsible.\n\n**Steps to take if you are a victim of abetment:**\n1. **Identify all involved**: Report both the person who did the act and those who encouraged or enabled it.\n2. **Preserve communication**: Chat logs, phone records, or emails showing planning or persuasion.\n3. **Report to police** clearly naming instigators or conspirators.\n4. **Request investigation of all parties**: Not just the direct offender.\n5. **Cooperate with authorities** and submit evidence showing the broader conspiracy or instigation."
+      }
+    ]
+  },
+  
+  {
+    "section": 46,
+    "section_name": "Abettor",
+    "questions": [
+      {
+        "question": "What is an abettor and can someone be punished even if they didn’t commit the crime themselves?",
+        "answer": "An abettor is someone who **instigates, conspires, or aids** in the commission of an offence. They can be punished even if:\n- The offence is **not completed**,\n- The abetted person is **not legally capable** of committing the offence (e.g. a child),\n- Or the abettor was not directly involved in the act.\n\n**Steps a victim should take if abetment is suspected:**\n1. **Identify all involved parties**: Don’t focus only on who committed the act—gather evidence of instigators or aiders.\n2. **Document communications**: Chat logs, calls, and messages used to instigate or plan the act.\n3. **Name the abettor in the FIR**: Ensure they are included as co-accused.\n4. **Work with investigators**: Help establish the link between the abettor’s intent and the offence.\n5. **Seek maximum punishment**: Ask the court to treat the abettor equally under the law if their role was significant."
+      }
+    ]
+  },
+  {
+    "section": 47,
+    "section_name": "Abetment in India of offences outside India",
+    "questions": [
+      {
+        "question": "Can someone in India be punished for helping commit a crime in another country?",
+        "answer": "Yes. If a person in India **abets a crime committed abroad**, and if that act would be a crime in India, the abettor is **criminally liable** under Indian law.\n\n**Steps a victim should take:**\n1. **File a complaint in India**: If the abettor is within Indian jurisdiction.\n2. **Provide all international evidence**: Including foreign reports, witness statements, and digital traces.\n3. **Request investigation by CBI or Interpol**: For cross-border coordination.\n4. **Notify the Indian embassy in the affected country**.\n5. **Push for extradition or local trial of abettor** in India."
+      }
+    ]
+  },
+  {
+    "section": 48,
+    "section_name": "Abetment outside India for offence in India",
+    "questions": [
+      {
+        "question": "What if someone outside India helped plan a crime that happened here?",
+        "answer": "A person **outside India** who abets a crime committed **in India** is criminally liable. Their location does not exempt them from prosecution.\n\n**Steps a victim should take:**\n1. **File a complaint naming the foreign abettor**.\n2. **Work with cybercrime or special task forces** if it involved digital or financial planning.\n3. **Seek diplomatic or legal cooperation** with the country where the abettor resides.\n4. **Involve MEA (Ministry of External Affairs)** or police for red-corner notices or extradition.\n5. **Provide digital or documented links** that show how the abettor influenced the act."
+      }
+    ]
+  },
+  {
+    "section": 49,
+    "section_name": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made",
+    "questions": [
+      {
+        "question": "What happens if someone abets a crime and the crime happens as a result, but there’s no specific punishment mentioned?",
+        "answer": "In such cases, the abettor is punished with **the same punishment as the person who committed the offence**, if it was committed due to instigation, conspiracy, or aid.\n\n**Steps a victim should take:**\n1. **Insist on prosecution of abettor** alongside the main offender.\n2. **Demonstrate the causal link** between the abettor’s action and the committed offence.\n3. **Gather proof of conspiracy or planning** (chats, calls, financial trails).\n4. **Push for equal punishment** where the abettor's role was central.\n5. **Use judicial precedents** to strengthen your complaint in absence of express punishment provision."
+      }
+    ]
+  },
+  {
+    "section": 50,
+    "section_name": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+    "questions": [
+      {
+        "question": "What if the person who committed the crime did it for a different reason than the abettor intended?",
+        "answer": "Even if the person who commits the act has **a different intention or knowledge**, the abettor is punished **according to their own intent**. So, the focus is on what the abettor intended, not the actual doer's mindset.\n\n**Steps a victim should take:**\n1. **Record the abettor’s intent clearly**—whether it was to harm, cheat, or kill.\n2. **Collect proof of abettor’s motivation**—even if the act turned out differently.\n3. **Support charges under abetment law** by showing initial instigation or involvement.\n4. **Request judicial interpretation** if there’s confusion between the act and intent.\n5. **Continue civil action for damages** against both abettor and doer if applicable."
+      }
+    ]
+  },
+  
+  {
+    "section": 51,
+    "section_name": "Liability of abettor when one act abetted and different act done",
+    "questions": [
+      {
+        "question": "Can someone be punished for a different act than the one they encouraged?",
+        "answer": "Yes. If someone abets (instigates, aids, or conspires) one act, but a **different act occurs as a probable consequence**, the abettor is **still liable**—as long as the resulting act was influenced by the original abetment.\n\n**Victim Steps:**\n1. Collect proof showing the abettor’s initial plan or encouragement.\n2. Establish how the committed act was a likely or foreseeable outcome.\n3. Ensure the abettor is named in the FIR even if not directly present.\n4. Collaborate with investigation to highlight the chain of influence.\n5. Request court to hold abettor equally liable for the final offence."
+      }
+    ]
+  },
+  {
+    "section": 52,
+    "section_name": "Abettor when liable to cumulative punishment for act abetted and for act done",
+    "questions": [
+      {
+        "question": "Can an abettor be punished for both the act they abetted and an additional crime committed during that act?",
+        "answer": "Yes. If the person they abetted **committed multiple crimes**, and the abettor **knew those crimes could happen**, the abettor is liable for **each separate offence**.\n\n**Victim Steps:**\n1. Clearly report all criminal outcomes—not just the original act.\n2. Show evidence that the abettor was aware of the potential for multiple outcomes.\n3. Demand that abettor be charged for each offence.\n4. Follow up on whether charges include compound or cumulative offences.\n5. Push for sentencing that reflects full impact on victims."
+      }
+    ]
+  },
+  {
+    "section": 53,
+    "section_name": "Liability of abettor for an effect caused by act abetted different from that intended by abettor",
+    "questions": [
+      {
+        "question": "What if someone encourages a crime, but the outcome is worse than intended—are they liable?",
+        "answer": "Yes. If the abettor **knew the act could cause a worse effect**, like death instead of injury, they are liable **as if they intended** that effect.\n\n**Victim Steps:**\n1. Provide evidence that the abettor knew serious consequences were likely.\n2. Ensure the charge reflects the actual harm, not just what was intended.\n3. Push for trial proceedings to evaluate abettor’s knowledge or foresight.\n4. Request forensic/medical proof to show link between act and final result.\n5. File for full punishment even if the original intent was less severe."
+      }
+    ]
+  },
+  {
+    "section": 54,
+    "section_name": "Abettor present when offence is committed",
+    "questions": [
+      {
+        "question": "If someone was present while the crime happened and had abetted it, can they be treated as if they committed it?",
+        "answer": "Yes. If an abettor is **physically present** at the time of offence, they are **deemed to have committed the crime themselves**.\n\n**Victim Steps:**\n1. Identify abettors present at the crime scene.\n2. Include them in complaint as active participants.\n3. Ensure witnesses confirm their presence.\n4. Insist on applying the same charges as the actual doer.\n5. Demand equal punishment in prosecution and sentencing."
+      }
+    ]
+  },
+  {
+    "section": 55,
+    "section_name": "Abetment of offence punishable with death or imprisonment for life",
+    "questions": [
+      {
+        "question": "What if someone encouraged a murder, but it wasn’t committed—are they still liable?",
+        "answer": "Yes. If a person abets a crime like **murder or any life-imprisonable offence**, they face:\n- **Up to 7 years imprisonment + fine** if the crime was not committed.\n- **Up to 14 years** if the abetment **caused injury** even without completing the crime.\n\n**Victim Steps:**\n1. Report the abettor even if the intended crime wasn’t completed.\n2. Provide evidence of injury or harm linked to the abetment.\n3. Demand charges under this section if offence is grave.\n4. Track whether intent and outcome are both covered in prosecution.\n5. Insist on enhanced punishment if any physical harm occurred."
+      }
+    ]
+  },
+  
+  {
+    "section": 56,
+    "section_name": "Abetment of offence punishable with imprisonment",
+    "questions": [
+      {
+        "question": "What happens if someone encourages a crime punishable with imprisonment, but the crime doesn’t happen?",
+        "answer": "If someone abets a crime punishable by imprisonment and it doesn’t actually happen, the abettor is still punishable. The punishment may be up to **one-fourth** of the maximum term of imprisonment for that crime. If the abettor is a **public servant** responsible for preventing that offence, punishment may go up to **half** the longest term.\n\n**Victim Steps:**\n1. Report both the abettor and the intended crime—even if it was not committed.\n2. Emphasize if the abettor is a public servant with duty to prevent the offence.\n3. Provide evidence of instigation, such as messages or witness statements.\n4. Demand charges under this section to prevent future attempts.\n5. Assist authorities in showing the abettor’s intent and influence."
+      }
+    ]
+  },
+  {
+    "section": 57,
+    "section_name": "Abetting commission of offence by public or more than ten persons",
+    "questions": [
+      {
+        "question": "Can someone be punished for encouraging a large group or the public to commit a crime?",
+        "answer": "Yes. Abetting a crime through the **public or any group exceeding ten people** is punishable with **up to seven years’ imprisonment and a fine**. This includes inciting riots, violence, or unlawful gatherings.\n\n**Victim Steps:**\n1. Take photographic or video evidence of any public incitement (e.g., placards, speeches).\n2. Record the number of people targeted by the abettor.\n3. Report the specific language or actions used to instigate mass offences.\n4. Submit materials to the police (e.g., flyers, social media posts).\n5. Request appropriate charges to curb future mass incitement."
+      }
+    ]
+  },
+  {
+    "section": 58,
+    "section_name": "Concealing design to commit offence punishable with death or life imprisonment",
+    "questions": [
+      {
+        "question": "What if someone hides information about a planned murder or serious crime?",
+        "answer": "Concealing the design of a crime punishable by **death or life imprisonment**, with intent to help the crime happen, is a serious offence:\n- If the crime happens: **up to 7 years’ imprisonment**.\n- If the crime doesn’t happen: **up to 3 years and a fine**.\nThis includes using encryption, false reports, or misleading authorities.\n\n**Victim Steps:**\n1. File a report if you suspect someone knew about the crime and hid it.\n2. Collect proof: phone records, digital logs, or fake reports.\n3. Emphasize the intentional concealment of facts.\n4. If encryption tools were used, request cybercrime unit involvement.\n5. Demand strict action due to the severity of the crime being concealed."
+      }
+    ]
+  },
+  {
+    "section": 59,
+    "section_name": "Public servant concealing design to commit offence they were bound to prevent",
+    "questions": [
+      {
+        "question": "What if a police officer or official knew about a planned crime and didn’t report it?",
+        "answer": "If a **public servant**, like a police officer, hides knowledge of a planned offence that they are legally bound to prevent, they are criminally liable. Punishments depend on whether the crime occurs:\n- If committed: up to **half** of the maximum sentence for that crime (or **up to 10 years** for capital offences).\n- If not committed: up to **one-fourth** of the term.\n\n**Victim Steps:**\n1. File a complaint against the officer who concealed the plan.\n2. Provide records or evidence of omission (e.g., ignored complaints).\n3. Highlight their legal duty to act, and how their inaction helped the offence.\n4. Engage higher authorities or human rights commissions if police involvement is suspected.\n5. Demand enhanced punishment due to betrayal of public trust."
+      }
+    ]
+  },
+  {
+    "section": 60,
+    "section_name": "Concealing design to commit offence punishable with imprisonment",
+    "questions": [
+      {
+        "question": "What if someone hides a plan to commit a less serious offence (not punishable with death)?",
+        "answer": "If someone conceals the design of a crime that is **punishable by imprisonment**, they are liable:\n- If crime is committed: **up to one-fourth** of maximum term.\n- If not committed: **up to one-eighth** or a fine or both.\nEven illegal omissions count, such as not warning or misleading authorities.\n\n**Victim Steps:**\n1. Report anyone who concealed the plan for a crime that later occurred.\n2. Collect evidence of their deliberate silence or misinformation.\n3. If digital tools (e.g., encryption) were used, request cyber forensics.\n4. Make it clear how their actions helped the offence.\n5. Push for penalty even if the actual offender is already punished."
+      }
+    ]
+  },
+  {
+    "section": 61,
+    "section_name": "Criminal conspiracy",
+    "questions": [
+      {
+        "question": "What is a criminal conspiracy and when does it become punishable?",
+        "answer": "A criminal conspiracy occurs when two or more people agree:\n1. To commit an illegal act, or\n2. To commit a legal act using illegal means.\nIt becomes punishable when:\n- The conspiracy is to commit an offence, OR\n- Any step is taken to implement the conspiracy (even if no offence occurs).\n\n**Victim Steps:**\n1. Report any group or person planning to harm you or others.\n2. Collect evidence of communication, meetings, or planning.\n3. If someone is attempting to recruit you, record or screenshot messages.\n4. Inform law enforcement even if the act hasn’t been committed yet.\n5. If the act is serious (death, life imprisonment, etc.), push for charges equal to abetment."
+      }
+    ]
+  },
+  {
+    "section": 62,
+    "section_name": "Attempt to commit offences punishable with life or other imprisonment",
+    "questions": [
+      {
+        "question": "What if someone tries to commit a serious offence but fails—can they still be punished?",
+        "answer": "Yes. Attempting to commit any offence punishable with life or term imprisonment is a crime. The punishment can be up to **half the maximum term** of the intended offence.\n\n**Examples:**\n- Trying to pickpocket someone but finding nothing is still an offence.\n- Attempting to break open a box to steal, even if nothing is inside.\n\n**Victim Steps:**\n1. Report attempted offences even if no harm was done.\n2. Secure CCTV, witness statements, or photos of the attempt.\n3. Cooperate with police to ensure charges under attempt laws.\n4. Request preventive custody if the attempt indicates future harm.\n5. Seek restraining orders if the offender has tried multiple times."
+      }
+    ]
+  },
+  {
+    "section": 63,
+    "section_name": "Rape",
+    "questions": [
+      {
+        "question": "What legally qualifies as rape under this law?",
+        "answer": "Rape includes various forms of non-consensual sexual acts by a man on a woman, including:\n- Penile penetration of vagina, mouth, urethra or anus\n- Insertion of any object/body part (other than penis)\n- Oral acts on intimate areas\n- Manipulation or coercion under specific circumstances like:\n  1. Against her will\n  2. Without consent\n  3. Consent obtained through fear, fraud, or intoxication\n  4. Victim under 18 or unable to communicate consent\n\n**Important:** Silence is not consent. A clear, voluntary agreement is required.\n\n**Victim Steps:**\n1. Immediately seek medical attention and preserve evidence.\n2. File an FIR at the nearest police station (a woman officer should assist).\n3. Get counseling or legal support through NGOs or legal aid.\n4. Avoid washing or changing clothes before medical examination.\n5. Record any physical or digital threats if applicable."
+      }
+    ]
+  },
+  {
+    "section": 64,
+    "section_name": "Punishment for rape",
+    "questions": [
+      {
+        "question": "What are the punishments for rape under this law?",
+        "answer": "Punishment varies based on the circumstances:\n- Standard rape: Minimum 10 years, can extend to life imprisonment + fine.\n- Aggravated rape (by police, public servants, during riots, on disabled women, etc.): Minimum 10 years up to life (meaning rest of natural life) + fine.\n\n**Victim Steps:**\n1. Identify if the offender is in a position of power (police, teacher, hospital staff, etc.).\n2. Provide all supporting evidence of coercion, manipulation or abuse of authority.\n3. Demand enhanced punishment under Section 64 for aggravated conditions.\n4. Insist on medical, psychiatric and legal support via victim compensation schemes.\n5. Ask for fast-track trial if the case qualifies."
+      }
+    ]
+  },
+  {
+    "section": 65,
+    "section_name": "Punishment for rape in certain cases",
+    "questions": [
+      {
+        "question": "What is the punishment for rape of a minor under 16 or 12 years of age?",
+        "answer": "The punishment is extremely strict:\n- Rape of girl under 16: Minimum 20 years, may extend to life imprisonment (for natural life) + fine.\n- Rape of girl under 12: Minimum 20 years to life imprisonment or **death penalty**, along with fine.\n\n**Fines must be paid to the victim** to cover medical and rehabilitation costs.\n\n**Victim Steps (for guardians/parents):**\n1. Immediately file a complaint and request medical care.\n2. Preserve any proof like clothing, CCTV, or witness reports.\n3. Ensure that the court imposes both imprisonment and victim-compensation fines.\n4. Apply for victim compensation under relevant state schemes.\n5. Request in-camera (private) trial and protective custody if needed."
+      }
+    ]
+  },
+
+  {
+    "section": 66,
+    "section_name": "Punishment for causing death or resulting in persistent vegetative state of victim",
+    "questions": [
+      {
+        "question": "What is the punishment if a woman dies or goes into a vegetative state due to rape?",
+        "answer": "If a rape (under Section 64(1) or 64(2)) results in the **death of the victim** or leaves her in a **persistent vegetative state**, the offender can be punished with:\n- **Minimum 20 years** of rigorous imprisonment,\n- **Imprisonment for the remainder of natural life**, or\n- **Death penalty**.\n\n**Victim’s family steps:**\n1. Report the incident as both rape and homicide (or grievous injury).\n2. Request a medical board to assess vegetative state or fatal injuries.\n3. Push for maximum penalty in cases of intentional brutality.\n4. Seek legal aid and victim compensation from government schemes.\n5. Request fast-track trial due to severity and public interest."
+      }
+    ]
+  },
+  {
+    "section": 67,
+    "section_name": "Sexual intercourse by husband upon his wife during separation",
+    "questions": [
+      {
+        "question": "Is forced sex by a husband on his separated wife considered a crime?",
+        "answer": "Yes. If a husband has sexual intercourse with his wife **without her consent**, while they are **living separately**, whether legally or otherwise, he can be punished with:\n- **Imprisonment for 2 to 7 years**, and\n- **Fine**.\n\n**Victim Steps:**\n1. File a complaint with clear mention of forced intercourse and separation status.\n2. Provide documentation such as legal separation papers, affidavits, or witness testimony.\n3. Seek medical and psychological support.\n4. Inform protection officers under Domestic Violence Act, if needed.\n5. Request safety measures, including restraining orders."
+      }
+    ]
+  },
+  {
+    "section": 68,
+    "section_name": "Sexual intercourse by a person in authority",
+    "questions": [
+      {
+        "question": "What if someone in power (like a boss or warden) forces a woman into sexual acts, even if it's not rape?",
+        "answer": "If a person in a **position of authority or trust** (such as a public servant, hospital staff, jail officer, or teacher) uses their power to seduce or coerce a woman into sexual intercourse (not amounting to rape), they face:\n- **Rigorous imprisonment of 5 to 10 years**, and\n- **Fine**.\n\n**Victim Steps:**\n1. Collect evidence of the abuse of power (texts, recordings, witness statements).\n2. Report the abuse to police and internal complaints committee (if workplace).\n3. Seek immediate transfer or protection if in custody or institutional care.\n4. Request registration under Section 68 for position-based coercion.\n5. Ensure medical, legal, and emotional rehabilitation through state/legal aid."
+      }
+    ]
+  },
+  {
+    "section": 69,
+    "section_name": "Sexual intercourse by employing deceitful means",
+    "questions": [
+      {
+        "question": "What if someone tricked a woman into sex by lying about marriage, job, or identity?",
+        "answer": "If a man has sexual intercourse with a woman by **false promise of marriage**, **fake job offers**, or **suppressing his identity**, and it doesn’t qualify as rape, he can still be punished under this section with:\n- **Imprisonment up to 10 years**, and\n- **Fine**.\n\n**Victim Steps:**\n1. Gather proof of false promises or misrepresentation (texts, chats, witnesses).\n2. File a police complaint detailing how consent was obtained through deception.\n3. Report if the man pretended to be someone else or offered fake opportunities.\n4. Seek protection and legal aid during the investigation.\n5. Demand charges under Section 69 if rape conditions aren’t technically met."
+      }
+    ]
+  },
+  {
+    "section": 70,
+    "section_name": "Gang rape",
+    "questions": [
+      {
+        "question": "What is the punishment when a woman is raped by multiple people (gang rape)?",
+        "answer": "Gang rape occurs when a group or persons with shared intent rapes a woman. Each person involved is equally liable.\n- **Punishment**: Minimum **20 years of rigorous imprisonment**, extendable to **life imprisonment for natural life**, and **fine**.\n- The **fine must cover victim’s medical and rehabilitation expenses**.\n\nIf the victim is **under 18**, punishment increases to:\n- **Life imprisonment** (rest of natural life), or\n- **Death penalty**, plus fine paid to the victim.\n\n**Victim Steps:**\n1. Immediately report the incident; insist on treating it as gang rape.\n2. Seek medical examination from an authorised hospital.\n3. Request protective custody, legal support, and counselling.\n4. Demand collective responsibility and trial of all accused.\n5. Ensure the fine is paid to cover full medical and recovery costs."
+      }
+    ]
+  },
+  
+  {
+    "section": 71,
+    "section_name": "Punishment for repeat offenders",
+    "questions": [
+      {
+        "question": "What happens if a person repeats a serious sexual offence?",
+        "answer": "If someone is convicted again under sections 64, 65, 66, or 70 (which relate to rape, gang rape, or offences causing death or extreme harm), they will face the most severe punishments:\n- **Life imprisonment for the remainder of their natural life**, or\n- **Death penalty**.\n\n**Victim Steps:**\n1. Verify whether the accused has a past conviction record.\n2. Work with police or legal aid to get certified previous conviction details.\n3. Push for maximum penalty based on repeat offence.\n4. Insist on court recognition of prior conviction during trial."
+      }
+    ]
+  },
+  {
+    "section": 72,
+    "section_name": "Disclosure of identity of victim of certain offences",
+    "questions": [
+      {
+        "question": "Is it illegal to publish the name or identity of a sexual offence victim?",
+        "answer": "Yes. Publishing or printing the name or any detail that reveals the identity of a victim (under Sections 64 to 71) is punishable with:\n- **Up to 2 years of imprisonment**, and\n- **Fine**.\n\nExceptions:\n- If ordered in writing by the officer in charge **for the purpose of investigation**, the disclosure is permitted.\n\n**Victim Steps:**\n1. If your identity was published, file a complaint with the police or cyber cell.\n2. Save screenshots, articles, or video clips as evidence.\n3. Contact the Information Commission, Press Council, or Women’s Commission.\n4. Request the media platform to take down the content immediately."
+      }
+    ]
+  },
+  {
+    "section": 73,
+    "section_name": "Printing or publishing matter related to court proceedings without permission",
+    "questions": [
+      {
+        "question": "Can someone publish details of a sexual offence court case without permission?",
+        "answer": "No. Publishing any matter about court proceedings related to offences under Section 72 **without prior court approval** is illegal.\n- **Punishment**: Up to **2 years of imprisonment**, and **fine**.\n\n**However**, publishing judgments by High Courts or the Supreme Court **is allowed**.\n\n**Victim Steps:**\n1. Report any unauthorized media coverage to the court handling the case.\n2. Preserve links or physical records of the publication.\n3. Request a court order for media silence or in-camera proceedings."
+      }
+    ]
+  },
+  {
+    "section": 74,
+    "section_name": "Assault or use of criminal force to woman with intent to outrage her modesty",
+    "questions": [
+      {
+        "question": "What is the punishment for groping, touching, or attacking a woman intending to outrage her modesty?",
+        "answer": "Any man who assaults or uses criminal force with the **intent to outrage a woman’s modesty** can be punished with:\n- **Imprisonment of 1 to 5 years**, and\n- **Fine**.\n\n**Victim Steps:**\n1. Immediately report the incident to the nearest police station.\n2. Give a clear statement about physical contact and intent.\n3. Request security or restraining order against the accused.\n4. Seek emotional or legal support via NGOs or state resources.\n5. Ask for trial under Section 74 for stronger charges."
+      }
+    ]
+  },
+  {
+    "section": 75,
+    "section_name": "Sexual harassment",
+    "questions": [
+      {
+        "question": "What is considered sexual harassment under this law?",
+        "answer": "A man commits sexual harassment if he does any of the following:\n1. Makes unwanted physical contact or advances with explicit sexual intent,\n2. Demands or requests sexual favors,\n3. Shows pornography without consent,\n4. Makes sexually colored remarks.\n\n**Punishment:**\n- For acts (i), (ii), (iii): **Rigorous imprisonment up to 3 years**, or **fine**, or both.\n- For act (iv): **Imprisonment up to 1 year**, or **fine**, or both.\n\n**Victim Steps:**\n1. Immediately file a complaint with the police or Internal Complaints Committee (for workplaces).\n2. Preserve texts, recordings, screenshots, or witnesses.\n3. Record specific behaviors and dates for stronger legal grounds.\n4. Ask for protection and mental health support.\n5. Push for formal charges under Section 75, not just under workplace guidelines."
+      }
+    ]
+  },
+
+  
+  {
+    "section": 76,
+    "section_name": "Assault or use of criminal force to woman with intent to disrobe",
+    "questions": [
+      {
+        "question": "What if someone tries to forcibly disrobe or make a woman naked?",
+        "answer": "Anyone who assaults or uses force to disrobe a woman or compel her to be naked is punishable with:\n- Imprisonment of 3 to 7 years, and\n- Fine.\n\nVictim Steps:\n1. Report the act to the police immediately under Section 76.\n2. Demand a female officer to take your statement.\n3. Preserve evidence like torn clothing, eyewitness testimony, or video footage.\n4. Seek urgent medical and psychological support.\n5. Request police protection if threatened."
+      }
+    ]
+  },
+  {
+    "section": 77,
+    "section_name": "Voyeurism",
+    "questions": [
+      {
+        "question": "Is watching or recording a woman privately a punishable offence?",
+        "answer": "Yes. Watching, photographing, or disseminating private images of a woman without her consent is punishable as voyeurism.\n\nPunishment:\n- First conviction: 1 to 3 years imprisonment and fine.\n- Second/subsequent: 3 to 7 years imprisonment and fine.\n\nVictim Steps:\n1. File a police complaint under Section 77.\n2. Collect any evidence: photos, videos, messages.\n3. Ask the platform to remove any circulated content.\n4. Get legal and cybercrime support to track the offender.\n5. Consider getting a restraining order."
+      }
+    ]
+  },
+  {
+    "section": 78,
+    "section_name": "Stalking",
+    "questions": [
+      {
+        "question": "What is considered stalking and what are the penalties?",
+        "answer": "Repeatedly following, contacting, or monitoring a woman online despite her disinterest is stalking.\n\nPunishment:\n- First offence: Up to 3 years imprisonment and fine.\n- Subsequent offences: Up to 5 years imprisonment and fine.\n\nVictim Steps:\n1. Record evidence of following or online monitoring.\n2. Immediately report to police or cybercrime cell.\n3. Request an FIR under Section 78.\n4. Block and document all attempts of contact.\n5. Ask for personal protection or restraining orders."
+      }
+    ]
+  },
+  {
+    "section": 79,
+    "section_name": "Word, gesture or act intended to insult modesty of a woman",
+    "questions": [
+      {
+        "question": "What if someone uses words or gestures that insult a woman’s modesty?",
+        "answer": "Uttering words, making sounds or gestures, or intruding on a woman’s privacy to insult her modesty is punishable with:\n- Simple imprisonment up to 3 years, and\n- Fine.\n\nVictim Steps:\n1. Note down what was said or done, including date, time, and witnesses.\n2. File a complaint with local police citing Section 79.\n3. Provide CCTV footage or recordings if available.\n4. Ask for an immediate restraining order.\n5. Approach the Women’s Commission for additional support."
+      }
+    ]
+  },
+  {
+    "section": 80,
+    "section_name": "Dowry death",
+    "questions": [
+      {
+        "question": "What if a woman dies due to dowry-related cruelty or burns within 7 years of marriage?",
+        "answer": "If a woman dies within 7 years of marriage under suspicious circumstances and had faced cruelty or harassment related to dowry by her husband or in-laws, it is considered dowry death.\n\nPunishment:\n- Minimum 7 years imprisonment, extendable to life imprisonment.\n\nVictim Family Steps:\n1. Immediately report to police and demand Section 80 be invoked.\n2. Collect evidence: letters, messages, medical reports, or witness accounts.\n3. Request autopsy and medical board evaluation.\n4. File case under Dowry Prohibition Act along with this Sanhita.\n5. Contact women’s legal aid and NGOs for fast-track court support."
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+  
+
+
