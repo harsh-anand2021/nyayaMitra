@@ -10,7 +10,7 @@ import 'package:url_launcher/url_launcher.dart';// <-- added
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if (kIsWeb) {
-    await Firebase.initializeApp(options: FirebaseOptions(apiKey:"AIzaSyB2aFS17b0Pvi5X9sW0b4Rm9vD9ErlQ1Io" , appId:"1:39574454255:web:cff4a5a3b41fc414e9001a", messagingSenderId: "39574454255", projectId: "nyayamitra-5b724"));
+    await Firebase.initializeApp(options: FirebaseOptions(apiKey:"Your API Key here" , appId:"Your API Id", messagingSenderId: "39574454255", projectId: "nyayamitra-5b724"));
     // no Firebase init for web here as per your original
   } else {
     await Firebase.initializeApp();
